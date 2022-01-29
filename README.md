@@ -1,7 +1,8 @@
 # repository-name
 <html>
     <body>
-          body {
+        <main>
+                      body {
     font-family: sans-serif;
 }
 
@@ -31,7 +32,6 @@ a {
     font-size: 20px;
     margin: 30px;
 }
-        <main>
             <h1>Школата</h1>
             <p class="post">нормальное для мемов
                 <h1>
