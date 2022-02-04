@@ -1,36 +1,32 @@
 # repository-name
 <html>
     <body>
-        <main>
-                      body {
+      body {
     font-family: sans-serif;
 }
-
-body {
-    font-family: sans-serif;
-}
-
-h1 {
-    text-align: center;
-    font-size: 40px;
-    background-color: DarkSlateBlue;
-    color: white;
-}
-
-.post {
-    font-size: 25px;
-    background-color: aliceblue;
-    margin-bottom: 35px;
-    margin: 80px 0px 80px 50px
-}
-
-a {
-    background-color: darkorange;
-    color: white;
+header{
+    background-color: green;
+    border-radius: 8px;
     padding: 10px;
+    color: blue;
+}
+h1{
+    font-family: cursive;
+    color: brown;
+    text-align: center;
+}
+footer{
+   background-color: red;
+    border-radius: 8px;
+    padding: 10px;
+    color: blue; 
+}
+nav{
+    background-color: rgb(3, 255, 255);
     text-decoration: none;
-    font-size: 20px;
-    margin: 30px;
+    border-radius: 15px;
+    padding: 4px;
+    margin: 25px;
 }
             <h1>Школата</h1>
             <p class="post">нормальное для мемов
